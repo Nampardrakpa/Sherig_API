@@ -1,0 +1,14 @@
+# Ignore Node.js modules
+node_modules/
+
+# Ignore environment files containing sensitive information
+.env
+
+# Ignore package lock file
+package-lock.json
+
+# Ignore build artifacts or any generated files
+/build/
+
+# Ignore log files
+*.log
